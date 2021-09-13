@@ -1,0 +1,5 @@
+C:\Users\Victor\Desktop\HTWGame\src\Domain\bin\Debug\netstandard2.0\HTWGame.Domain.deps.json
+C:\Users\Victor\Desktop\HTWGame\src\Domain\bin\Debug\netstandard2.0\HTWGame.Domain.dll
+C:\Users\Victor\Desktop\HTWGame\src\Domain\obj\Debug\netstandard2.0\Domain.csprojAssemblyReference.cache
+C:\Users\Victor\Desktop\HTWGame\src\Domain\obj\Debug\netstandard2.0\Domain.AssemblyInfoInputs.cache
+C:\Users\Victor\Desktop\HTWGame\src\Domain\obj\Debug\netstandard2.0\Domain.AssemblyInfo.cs

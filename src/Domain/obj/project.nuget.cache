@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "BRSLeOS4H0rdjSsG8z9Vjd/jlD5pyhMcy8Cc6AibzIM3aY4GZGec/TSwKLgp77TpqdoN1vMTj19Mg9dF67ccRQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Victor\\Desktop\\HTWGame\\src\\Domain\\Domain.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Victor\\.nuget\\packages\\ardalis.smartenum\\2.0.1\\ardalis.smartenum.2.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}

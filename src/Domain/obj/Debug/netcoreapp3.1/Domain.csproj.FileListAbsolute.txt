@@ -1,0 +1,15 @@
+C:\Users\Victor\Desktop\HTWGame\src\Domain\bin\Debug\netcoreapp3.1\HTWGame.Domain.exe
+C:\Users\Victor\Desktop\HTWGame\src\Domain\bin\Debug\netcoreapp3.1\HTWGame.Domain.deps.json
+C:\Users\Victor\Desktop\HTWGame\src\Domain\bin\Debug\netcoreapp3.1\HTWGame.Domain.runtimeconfig.json
+C:\Users\Victor\Desktop\HTWGame\src\Domain\bin\Debug\netcoreapp3.1\HTWGame.Domain.runtimeconfig.dev.json
+C:\Users\Victor\Desktop\HTWGame\src\Domain\bin\Debug\netcoreapp3.1\HTWGame.Domain.dll
+C:\Users\Victor\Desktop\HTWGame\src\Domain\bin\Debug\netcoreapp3.1\HTWGame.Domain.pdb
+C:\Users\Victor\Desktop\HTWGame\src\Domain\bin\Debug\netcoreapp3.1\Ardalis.SmartEnum.dll
+C:\Users\Victor\Desktop\HTWGame\src\Domain\obj\Debug\netcoreapp3.1\Domain.csprojAssemblyReference.cache
+C:\Users\Victor\Desktop\HTWGame\src\Domain\obj\Debug\netcoreapp3.1\Domain.AssemblyInfoInputs.cache
+C:\Users\Victor\Desktop\HTWGame\src\Domain\obj\Debug\netcoreapp3.1\Domain.AssemblyInfo.cs
+C:\Users\Victor\Desktop\HTWGame\src\Domain\obj\Debug\netcoreapp3.1\Domain.csproj.CoreCompileInputs.cache
+C:\Users\Victor\Desktop\HTWGame\src\Domain\obj\Debug\netcoreapp3.1\Domain.csproj.CopyComplete
+C:\Users\Victor\Desktop\HTWGame\src\Domain\obj\Debug\netcoreapp3.1\HTWGame.Domain.dll
+C:\Users\Victor\Desktop\HTWGame\src\Domain\obj\Debug\netcoreapp3.1\HTWGame.Domain.pdb
+C:\Users\Victor\Desktop\HTWGame\src\Domain\obj\Debug\netcoreapp3.1\Domain.genruntimeconfig.cache
